@@ -5,4 +5,6 @@ A simple demo repo to learn the basic workflow
 
 ## Purpose
 
+## Deployment
+
 ## How to contribute
